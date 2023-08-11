@@ -38,7 +38,7 @@ img
 .banner
 {
     color: white;
-    background-image: url("/images/banner_2.png");
+    background-image: url("images/banner_2.png");
     background-repeat: no-repeat;
     background-size:cover;
     background-position: 100%;
