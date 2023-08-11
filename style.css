@@ -1,18 +1,18 @@
 @font-face {
     font-family: font1;
-    src: url('/fonts/font1.woff2');
+    src: url('fonts/font1.woff2');
     font-variant: normal;
 }
 @font-face
 {
     font-family: font2;
-    src: url('/fonts/font2.woff2');
+    src: url('fonts/font2.woff2');
     font-variant: normal;
 }
 @font-face
 {
     font-family: font3;
-    src: url('/fonts/font3.woff2');
+    src: url('fonts/font3.woff2');
     font-variant: normal;
 }
 
